@@ -28,7 +28,6 @@ switch ($action) {
         \App\Modele\Modele_MaTable::MaTable_Update($_REQUEST["id"], $_REQUEST["champ1"], $_REQUEST["champ2"]);
         $data = \App\Modele\Modele_MaTable::MaTable_Select();
         $Vue->addToCorps(new \App\Vue\Vue_AccueilMaTable($data));
-
         break;
 
 }
