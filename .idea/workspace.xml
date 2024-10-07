@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b6d39bb-d619-4c82-a32f-e674afdb1fbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Controleur/caseUtilisateur.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modele/Modele_utilisateur.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vue/Vue_Ajouter_Utilisateur.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vue/Vue_Menu_Utilisateur.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vue/Vue_ModifierUtilisateur.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vue/Vue_accueil_Utilisateur.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/install.php" beforeDir="false" afterPath="$PROJECT_DIR$/install.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controleur/caseMaTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controleur/caseMaTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vue/Vue_Menu_A.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vue/Vue_Menu_A.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vue/Vue_Menu_B.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vue/Vue_Menu_B.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vue/Vue_Menu_MaTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vue/Vue_Menu_MaTable.php" afterDir="false" />
-    </list>
+    <list default="true" id="7b6d39bb-d619-4c82-a32f-e674afdb1fbe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +83,7 @@
       <workItem from="1728296368411" duration="1166000" />
       <workItem from="1728297554339" duration="366000" />
       <workItem from="1728300980093" duration="4050000" />
-      <workItem from="1728305065946" duration="3864000" />
+      <workItem from="1728305065946" duration="4294000" />
     </task>
     <servers />
   </component>
