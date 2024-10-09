@@ -18,19 +18,19 @@ class Vue_ModifierUtilisateur extends Vue_Composant
     function donneTexte(): string
     {
         $str= "
-        <h1>Vous modifiez un enregistrement de ma table !</h1>
+        <h1>Vous modifiez un enregistrement de la table utilisateur !</h1>
         <div  style='    width: 50%;    display: block;    margin: auto;'> 
             <form method='post'>
-                <input type='hidden' name='case' value ='maTable'>
-                <input type='hidden' name='action' value ='enregistrerModifier'>
+                <input type='hidden' name='case' value ='utilisateur'>
                 <input type='hidden' name='id' value ='".$this->data["id"]."'>
                 <label for='nom'>nom</label>
-                <input type='text' name='champ1' value='".$this->data["nom"]."'><br>
+                <input type='text' name='nom' value='".$this->data["nom"]."'><br>
                 <label for='prenom'>prenom</label>
-                <input type='text' name='champ2' value='".$this->data["prenom"]."'><br>
+                <input type='text' name='prenom' value='".$this->data["prenom"]."'><br>
                 <label for='MotDePasse'>Mot de passe</label>
-                <input type='text' name='MotDePasse' value='".$this->data["MotDePasse"]."'><br>
-                <button type='submit' > Modifier</button>
+                <input type='text' name='motDePasse' value='".$this->data["MotDePasse"]."'><br>
+                <input type='hidden' name='action' value ='enregistrerModifierUtilisateur'>
+                <button type='submit' value='enregistrerAjouterUtilisateur' > Modifier</button>
             </form>
         </div>
         ";
